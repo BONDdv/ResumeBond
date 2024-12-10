@@ -16,7 +16,7 @@ const Header = () => {
         <h1>
           <a href="/" className="logo">
             <img
-              src="./public/images/favicon.webp"
+              src="/images/favicon.webp"
               width={40}
               height={40}
               alt="Bond"

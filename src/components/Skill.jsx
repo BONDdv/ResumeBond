@@ -7,52 +7,52 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
     {
-      imgSrc: './public/images/figma.svg',
+      imgSrc: '/images/figma.svg',
       label: 'Figma',
       desc: 'Design tool'
     },
     {
-      imgSrc: './public/images/css3.svg',
+      imgSrc: '/images/css3.svg',
       label: 'CSS',
       desc: 'User Interface'
     },
     {
-      imgSrc: './public/images/javascript.svg',
+      imgSrc: '/images/javascript.svg',
       label: 'JavaScript',
       desc: 'Interaction'
     },
     {
-      imgSrc: '/public/images/nodejs.svg',
+      imgSrc: '/images/nodejs.svg',
       label: 'NodeJS',
       desc: 'Web Server'
     },
     {
-      imgSrc: './public/images/expressjs.svg',
+      imgSrc: '/images/expressjs.svg',
       label: 'ExpressJS',
       desc: 'Node Framework'
     },
     {
-      imgSrc: './public/images/fastify.svg',
+      imgSrc: '/images/fastify.svg',
       label: 'Fastify',
       desc: 'Node Framework'
     },
     {
-      imgSrc: './public/images/mongodb.svg',
+      imgSrc: '/images/mongodb.svg',
       label: 'MongoDB',
       desc: 'Database'
     },
     {
-        imgSrc: './public/images/MySql.svg',
+        imgSrc: '/images/MySql.svg',
         label: 'MySql',
         desc: 'Database'
       },
     {
-      imgSrc: './public/images/react.svg',
+      imgSrc: '/images/react.svg',
       label: 'React',
       desc: 'Framework'
     },
     {
-      imgSrc: './public/images/tailwindcss.svg',
+      imgSrc: '/images/tailwindcss.svg',
       label: 'TailwindCSS',
       desc: 'User Interface'
     },
