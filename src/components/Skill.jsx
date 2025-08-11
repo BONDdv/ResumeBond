@@ -32,11 +32,6 @@ const skillItem = [
       desc: 'Node Framework'
     },
     {
-      imgSrc: '/images/fastify.svg',
-      label: 'Fastify',
-      desc: 'Node Framework'
-    },
-    {
       imgSrc: '/images/mongodb.svg',
       label: 'MongoDB',
       desc: 'Database'
